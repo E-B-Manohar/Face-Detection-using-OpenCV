@@ -1,7 +1,7 @@
 # Face-Detection-using-OpenCV
 
 ## About the dataset:
-391 directories containing sequence of pictures of each person.
+391 directories containing sequence of pictures of each person. (too large to upload: ~45MB)
 ## Various Tasks:
 1. Learnt to use OpenCV to display the image files from the dataset.
 2. Coded to deal with corrupted files like zero size, unrecognised images, so.
@@ -11,4 +11,4 @@
 6. Model Performance w.r.t precision, recall, f1 score.
 7. Testing the model to detect faces in an unseen random image downloaded from internet.
 
-output file of the detected faces in the online image.
+Output file of the detected faces in the online image.
