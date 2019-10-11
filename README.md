@@ -11,4 +11,7 @@
 6. Model Performance w.r.t precision, recall, f1 score.
 7. Testing the model to detect faces in an unseen random image downloaded from internet.
 
-Output file of the detected faces in the online image.
+Output file of the detected faces in the online image: Output_54.PNG
+
+## Next:
+Recognizing the detected faces.
